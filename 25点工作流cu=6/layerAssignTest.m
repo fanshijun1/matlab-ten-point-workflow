@@ -1,0 +1,1 @@
+ [ yA ,flag] = layerAssign( D,auxD,auxpreSucc )

@@ -1,0 +1,6 @@
+1，定义变量clock step arrate Sslice ET
+2.。CU的结构体定义
+3.channel结构体的定义
+4.user结构体的定义
+5
+
